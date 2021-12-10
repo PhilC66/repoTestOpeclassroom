@@ -3,10 +3,5 @@ Version de départ V0
 
 ligne 1 du code
 
-
-ajout ligne pour version 20
-
-nouvelle ligne
-
 modification de V0 correction bug
 
